@@ -1,0 +1,6 @@
+[
+    {"id": "USD", "name": "Dolar de Estado Unidos"},
+    {"id": "CRC", "name": "Colón Costa Rica"},
+    {"id": "EUR", "name": "Euro"},
+    {"id": "GBP", "name": "Libra esterlina"}
+]
